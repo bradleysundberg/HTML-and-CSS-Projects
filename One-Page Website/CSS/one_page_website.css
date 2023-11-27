@@ -1,0 +1,10 @@
+font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+font-size: 1.5em;
+
+input {
+    border: none;
+    border-radius: 8px;
+    width: calc(33% - 20px);
+    margin-right: 20px;
+}
+    
